@@ -3,7 +3,7 @@ clear
 clear sound
 
 
-%% WARNING! Do not run this program at midnight! 
+%% WARNING! Do not run this program at midnight!
 
 
 %% Read in audio file and preset parameters
