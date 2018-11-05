@@ -10,7 +10,6 @@ clear sound
 directory = 'C:\Users\sound_project\';
 filename = 'Ennio Morricone - The Crave.mp3';
 
-
 DispMode = 1;                           % 0: display choosed channel (chn0)
                                         % 1: display all channels in a same plot
                                         % 2: display differenct channels seperately
